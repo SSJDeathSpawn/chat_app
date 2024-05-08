@@ -1,0 +1,4 @@
+[workspace]
+members = [ "chat_base","chat_client", "chat_server"]
+
+
